@@ -1,6 +1,6 @@
 # Install Debian 9 on a ThinkPad X220
 
-1. Download latest Debian file for creating a USB bootable drive, file: [amd64-netist.iso}(https://www.debian.org/distrib/netinst)
+1. Download latest Debian file for creating a USB bootable drive, file: [amd64-netist.iso](https://www.debian.org/distrib/netinst)
 
 2. Convert the .iso file to a bootable (in Mac OS): follow this [guideline](https://blog.tinned-software.net/create-bootable-usb-stick-from-iso-in-mac-os-x/)
 

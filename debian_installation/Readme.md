@@ -8,9 +8,8 @@
 
 4. Installation issue: 
 
-⋅⋅* prepare a spare machine where you can download the missing firmware on another USB (search online for the specific missing files) e.g [iwlwifi-6000g2b-5.ucode](https://github.com/OpenELEC/iwlwifi-firmware/blob/master/firmware/iwlwifi-6000g2b-5.ucode) and [iwlwifi-6000g2b-6.ucode](https://github.com/cernekee/linux-firmware/blob/master/iwlwifi-6000g2b-6.ucode)   
-
-⋅⋅* `apt-get install sudo` (Add username into sudo list: https://www.reddit.com/r/linuxquestions/comments/6a0apo/debian_gnome_username_is_not_in_the_sudoers_file/)
+* prepare a spare machine where you can download the missing firmware on another USB (search online for the specific missing files) e.g [iwlwifi-6000g2b-5.ucode](https://github.com/OpenELEC/iwlwifi-firmware/blob/master/firmware/iwlwifi-6000g2b-5.ucode) and [iwlwifi-6000g2b-6.ucode](https://github.com/cernekee/linux-firmware/blob/master/iwlwifi-6000g2b-6.ucode)   
+* `apt-get install sudo` (Add username into sudo list: https://www.reddit.com/r/linuxquestions/comments/6a0apo/debian_gnome_username_is_not_in_the_sudoers_file/)
 
 # Additional software that I have installed 
 
@@ -40,10 +39,3 @@ Su root
 //check diskspace
 df -H
 ```
-
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.

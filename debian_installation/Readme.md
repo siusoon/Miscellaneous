@@ -7,7 +7,9 @@
 3. Put your USB stick and Reboot the x220 (Assume the bios can set for the boot sequence). The GUI screen should start.
 
 4. Installation issue: 
+
 ⋅⋅* prepare a spare machine where you can download the missing firmware on another USB (search online for the specific missing files) e.g [iwlwifi-6000g2b-5.ucode](https://github.com/OpenELEC/iwlwifi-firmware/blob/master/firmware/iwlwifi-6000g2b-5.ucode) and [iwlwifi-6000g2b-6.ucode](https://github.com/cernekee/linux-firmware/blob/master/iwlwifi-6000g2b-6.ucode)   
+
 ⋅⋅* `apt-get install sudo` (Add username into sudo list: https://www.reddit.com/r/linuxquestions/comments/6a0apo/debian_gnome_username_is_not_in_the_sudoers_file/)
 
 # Additional software that I have installed 
@@ -22,7 +24,7 @@
 * acpi -> check battery and charging quality 
 * ibus-cangjie- > Chinese input 
 
-Useful linux command
+Useful linux commands
 
 ```
 //root

@@ -12,7 +12,7 @@ brew install ghostscript
 
 3. If errors occur including the link issue, try `brew doctor` then just follow the terminal's suggestion
 
-4. Actual command line to combine all images into one single animated gif (go to the directory with the png files)
+4. The actual command line to combine all images into one single animated gif (go to the directory with the png files)
 
 `magick -delay 16 -loop 0 *.png output.gif`
 

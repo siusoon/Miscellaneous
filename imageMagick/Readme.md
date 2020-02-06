@@ -14,4 +14,7 @@ brew install ghostscript
 
 4. Actual command line to change the image (go to the directory with the png files)
 
-`magick -delay 200 -loop 0 *.png output.gif`
+`magick -delay 16 -loop 0 *.png output.gif`
+
+## Reference:
+https://imagemagick.org/Usage/anim_basics/
